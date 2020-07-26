@@ -3,7 +3,7 @@
 	url = https://github.com/balena-os/balena-yocto-scripts
 [submodule "layers/meta-balena"]
 	path = layers/meta-balena
-	url = https://github.com/kbumsik/meta-balena
+	url = https://github.com/balena-os/meta-balena.git
 	branch = dev
 [submodule "layers/meta-openembedded"]
 	path = layers/meta-openembedded
