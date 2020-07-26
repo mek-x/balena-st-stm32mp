@@ -20,3 +20,6 @@
 	path = layers/meta-st-stm32mp
 	url = https://github.com/kbumsik/meta-st-stm32mp
 	branch = thud
+[submodule "layers/meta-phytec"]
+	path = layers/meta-phytec
+	url = git://git.phytec.de/meta-phytec
